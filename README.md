@@ -1,6 +1,7 @@
 # facebook
 
 A new Flutter project.
+Its flutter App similar to facebook App.
 
 ## Getting Started
 
